@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Keremttc/Keremttc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World! Everyone 👋
 
-Here are some ideas to get you started:
+Mijn naam is **Kerem** en ik ben een enthousiaste Front-end Developer in opleiding.  
+Ik houd ervan om ideeën tot leven te brengen met **HTML, CSS, JavaScript** en frameworks zoals **Svelte** en **Liquid**. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Over mij
+- 💻 Houdt van clean code en toegankelijke designs  
+- 🎨 Combineert creativiteit met techniek  
+- 📚 Altijd bezig met leren en experimenteren  
+- 🤝 Werkt graag samen aan toffe projecten  
+
+## ⚡ Tools & Skills
+- HTML, CSS (BEM, responsive & mobile-first)  
+- JavaScript, API’s  
+- Frameworks: Svelte, Liquid  
+- Git & GitHub  
+
+---
