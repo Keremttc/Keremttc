@@ -14,6 +14,8 @@ Ik houd ervan om ideeën tot leven te brengen met **HTML, CSS, JavaScript** en f
 - HTML, CSS (BEM, responsive & mobile-first)  
 - JavaScript, API’s  
 - Frameworks: Svelte, Liquid  
-- Git & GitHub  
+- Git & GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keremttc&show_icons=true&theme=transparent)
 
 ---
